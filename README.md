@@ -12,6 +12,7 @@
 |2023.02.20-2023.02.28|팀 프로젝트 기간 및 발표|
 
 ## 파이썬 기초
+[**[code]** 01_python-tutorial](https://github.com/soyeong-kim/SKT_FLYAI/tree/main/01_python-tutorial)
 - 행렬과 다차원 배열을 쉽게 처리할 수 있도록 다양한 함수를 제공하는 파이썬의 라이브러리인 **NumPy**에 대한 예제
 - 데이터 조작 및 분석을 효율적으로 하기 위한 라이브러리인 **Pandas**에 대한 예제
 - 데이터 시각화 라이브러리인 **Matplotlib**과 Matplotlib을 기반으로 한 **Seaborn**에 대한 예제
