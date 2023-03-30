@@ -18,13 +18,12 @@
 - 데이터 시각화 라이브러리인 **Matplotlib**과 Matplotlib을 기반으로 한 **Seaborn**에 대한 예제
 
 ## 머신러닝
-[**[code]** 02_machine-learning](https://github.com/soyeong-kim/SKT_FLYAI/tree/main/02_machine-learning)<br>
-지도학습
-- 분류: KNN, SVM, Random Forest 등
-- 회귀: Logistic Regression, Boosting 등
+[**[code]** 02_machine-learning](https://github.com/soyeong-kim/SKT_FLYAI/tree/main/02_machine-learning)
+- 지도학습</br>
+분류: KNN, SVM, Random Forest 등</br>
+회귀: Logistic Regression, Boosting 등
 
-비지도학습
-- K-Means, PCA 등
+- 비지도학습: K-Means, PCA 등
 
 ## 딥러닝
 - CNN, LSTM 등
