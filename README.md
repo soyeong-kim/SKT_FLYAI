@@ -18,12 +18,13 @@
 - 데이터 시각화 라이브러리인 **Matplotlib**과 Matplotlib을 기반으로 한 **Seaborn**에 대한 예제
 
 ## 머신러닝
+[**[code]** 02_machine-learning](https://github.com/soyeong-kim/SKT_FLYAI/tree/main/02_machine-learning)
 지도학습
 - 분류: KNN, SVM, Random Forest 등
-- 회귀: Logistic, Boosting 등
+- 회귀: Logistic Regression, Boosting 등
 
 비지도학습
-- K-means, PCA(주성분분석)
+- K-Means, PCA 등
 
 ## 딥러닝
 - CNN, LSTM 등
@@ -34,3 +35,9 @@
 ## 컴퓨터 비전
 PyTorch로 Computer Vision 실습
 - PyTorch 기초, 전이학습(transfer learning), 객체 탐지(Object Detection), 트랜스포머(Transformer)에 대한 예제
+
+## Reference
+교재
+- 머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로
+- OpenCV-Python으로 배우는 영상 처리 및 응용
+- 딥러닝 파이토치 교과서
