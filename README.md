@@ -21,17 +21,20 @@
 [**[code]** 02_machine-learning](https://github.com/soyeong-kim/SKT_FLYAI/tree/main/02_machine-learning)
 - 지도학습</br>
 분류: KNN, SVM, Random Forest 등</br>
-회귀: Logistic Regression, Boosting 등
+회귀: Linear Regression, Boosting 등
 
 - 비지도학습: K-Means, PCA 등
 
 ## 딥러닝
+[**[code]** 03_deep-learning](https://github.com/soyeong-kim/SKT_FLYAI/tree/main/03_deep-learning)
 - CNN, LSTM 등
 
 ## 디지털 영상처리
+[**[code]** 04_digital-image-processing]()
 교재: OpenCV-Python으로 배우는 영상 처리 및 응용
 
 ## 컴퓨터 비전
+[**[code]** 05_computer-vision]()
 PyTorch로 Computer Vision 실습
 - PyTorch 기초, 전이학습(transfer learning), 객체 탐지(Object Detection), 트랜스포머(Transformer)에 대한 예제
 
