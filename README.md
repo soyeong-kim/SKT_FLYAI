@@ -27,19 +27,18 @@
 
 ## 딥러닝
 [**[code]** 03_deep-learning](https://github.com/soyeong-kim/SKT_FLYAI/tree/main/03_deep-learning)
-- CNN, LSTM 등
+- **Tensorflow(Keras)를 활용한 딥러닝 실습**: CNN, LSTM, YOLO v5 등에 대한 예제
 
 ## 디지털 영상처리
-[**[code]** 04_digital-image-processing]()
-교재: OpenCV-Python으로 배우는 영상 처리 및 응용
+[**[code]** 04_digital-image-processing](https://github.com/soyeong-kim/SKT_FLYAI/tree/main/04_digital-image-processing)
+- **교재**: OpenCV-Python으로 배우는 영상 처리 및 응용
 
 ## 컴퓨터 비전
-[**[code]** 05_computer-vision]()
-PyTorch로 Computer Vision 실습
-- PyTorch 기초, 전이학습(transfer learning), 객체 탐지(Object Detection), 트랜스포머(Transformer)에 대한 예제
+[**[code]** 05_computer-vision]()<br>
+- **PyTorch를 활용한 Computer Vision 실습**: PyTorch 기초, 전이학습(transfer learning), 객체 탐지(Object Detection), 트랜스포머(Transformer)에 대한 예제
 
 ## Reference
-교재
+**교재**
 - 머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로
 - OpenCV-Python으로 배우는 영상 처리 및 응용
 - 딥러닝 파이토치 교과서
