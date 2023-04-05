@@ -26,11 +26,11 @@ def get_iris(mode=None):
                                        'Iris-versicolor': 1, 
                                        'Iris-virginica': 2})
 
-    # X, y 나누기
+    # X, y 분리
     X = df.drop(['species'], axis=1)
     y = df['species']
 
-    # train, test 나누기
+    # train, test 데이터 분리
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
   
     return X_train, X_test, y_train, y_test
